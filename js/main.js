@@ -1,5 +1,8 @@
-function agregarTareas(){
-	//Este es contenedor de los posteos que tendra el flog
+function formularioLista(){
+	var formLista = document.getElementById('formLista');
+	formLista.classList.toggle('hidden');
+	
+
 
 }
 
